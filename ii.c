@@ -6,5 +6,6 @@ int main(){
         printf("helloworld¥n");
         printf("yes¥n");
     }
+    printf("¥n");
     return 0;
 }
