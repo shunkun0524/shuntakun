@@ -2,6 +2,7 @@
 
 int main(){
     int num2;
+    int sum;
     int num;
     for(num=0; num<=3; num++){
         printf("helloworld¥n");
