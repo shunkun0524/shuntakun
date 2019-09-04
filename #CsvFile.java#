@@ -1,0 +1,4 @@
+public class CsvFile{
+    Integer score;
+    Integer id;
+}
